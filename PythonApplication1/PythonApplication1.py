@@ -1,0 +1,2 @@
+name="Ahmed"
+print(name);
